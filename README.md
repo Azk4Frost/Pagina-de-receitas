@@ -1,10 +1,12 @@
-## Nome do Projeto
+## Página de Receitas
 
-Projeto desenvolvido durante a Formação Fullstack da Rocketseat (Módulo xx - Nome do módulo)
+Projeto desenvolvido durante a Formação Fullstack da Rocketseat (Módulo 01 - Introdução HTML e CSS)
 
 🚀 Funcionalidades
 
-    -- Citar Funcionalidades
+- Página de Receitas
+- Introduz o básico HTML semantico
+- boas práticas de identação
 
 🧪 Tecnologias utilizadas
 HTML5
